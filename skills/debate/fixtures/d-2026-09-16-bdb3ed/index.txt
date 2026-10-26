@@ -1,0 +1,14 @@
+01-gemini.out.md frame none
+02-opus.out.md frame none
+03-gemini.out.md diverge none
+04-opus.out.md diverge none
+05-gemini.out.md diverge none
+06-opus.out.md diverge none
+07-gemini.out.md verify none
+08-opus.out.md verify none
+09-gemini.out.md verify none
+10-opus.out.md verify none
+11-gemini.out.md converge advocate
+12-opus.out.md converge none
+13-gemini.out.md converge reviser
+14-opus.out.md converge advocate
